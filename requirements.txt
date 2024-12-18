@@ -1,0 +1,7 @@
+pip install pydantic
+pip install PyYAML
+pip install numpy==1.26.4
+pip install torch==2.1.0
+pip install torchdata==0.7.0
+pip install dgl -f https://data.dgl.ai/wheels/repo.html
+pip install spicy
